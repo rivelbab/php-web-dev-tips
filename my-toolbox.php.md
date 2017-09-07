@@ -54,4 +54,15 @@ Tu ne maîtrise pas Photoshop ou Gimp, pas de panique, on trouve de tout sur la 
 * http://apps.pixlr.com/editor/ : est un éditeur de photos robuste à utiliser dans le navigateur.
 * https://placeit.net/ : propose des maquettes et modèles gratuits de produits.
 
+## CODE et DESIGN
+
+En plus des outils classic natif des OS : 
+
+* https://ninjamock.com/ : est un outil gratuit de prototypage rapide, de schématisation agréable et de création rapide de maquettes.
+* https://moqups.com/ : est une application HTML5 pour créer des maquettes et des schémas SVG de toute résolution.
+* http://stylifyme.com/: Permet de connaitre les couleurs, polices, dimensions des images utilisées dans un site donné
+* https://marvelapp.com/resources/ : propose des ressources gratuites des designers qu’on aime.
+* http://www.invisionapp.com/tethr : c’est le plus beau KIT de design iOS jamais proposé.
+* https://www.logaster.com/create/favicon/ : est un outil pour créer ou télécharger des icônes .ico affichées dans la barre d’adresse de tous les navigateurs.
+
 Bon cette liste ne pas jamais s’arrêter, je vais donc revenir ultérieurement pour compléter car il reste tant de chose à couvrir pour un dev efficace.
